@@ -8,14 +8,14 @@
     <dependency>
         <groupId>com.github.atool</groupId>
         <artifactId>fluent-mybatis</artifactId>
-        <version>1.2.0</version>
+        <version>1.2.1</version>
     </dependency>
 
     <!-- fluent-mybatis代码生成依赖, 应用运行无需依赖, scope设为test-->
     <dependency>
         <groupId>com.github.atool</groupId>
         <artifactId>fluent-mybatis-generator</artifactId>
-        <version>1.2.0</version>
+        <version>1.2.1</version>
         <scope>test</scope>
     </dependency>
 
